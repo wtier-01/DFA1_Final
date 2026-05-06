@@ -1,0 +1,9 @@
+series,lag,ljung_box_statistic,p_value,autocorrelation_detected_at_5pct
+MSFT_ff3_residual,5,11.572309,0.041142,True
+MSFT_ff3_residual,10,16.368614,0.089555,False
+MSFT_ff3_residual,20,23.798394,0.25131,False
+MSFT_ff3_residual,40,49.480697,0.144698,False
+LMT_ff3_residual,5,14.403272,0.013241,True
+LMT_ff3_residual,10,30.961716,0.000595,True
+LMT_ff3_residual,20,39.599271,0.005611,True
+LMT_ff3_residual,40,64.481795,0.008396,True

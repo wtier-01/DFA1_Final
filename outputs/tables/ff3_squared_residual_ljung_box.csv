@@ -1,0 +1,9 @@
+series,lag,ljung_box_statistic,p_value,volatility_clustering_detected_at_5pct
+MSFT_ff3_residual_squared,5,2.41459,0.789299,False
+MSFT_ff3_residual_squared,10,5.106106,0.883978,False
+MSFT_ff3_residual_squared,20,12.790048,0.886209,False
+MSFT_ff3_residual_squared,40,21.814283,0.991464,False
+LMT_ff3_residual_squared,5,110.824012,0.0,True
+LMT_ff3_residual_squared,10,155.184441,0.0,True
+LMT_ff3_residual_squared,20,174.714249,0.0,True
+LMT_ff3_residual_squared,40,189.565027,0.0,True

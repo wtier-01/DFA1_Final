@@ -1,0 +1,3 @@
+series,mean,std_dev,min,max,skewness,excess_kurtosis,jarque_bera_statistic,jarque_bera_p_value,approximately_normal_at_5pct,observations
+MSFT_ff3_residual,-0.0,0.008932,-0.067545,0.073861,0.375719,10.131634,10807.435646,0.0,False,2513
+LMT_ff3_residual,-0.0,0.012755,-0.119908,0.091301,-0.265624,12.845232,17306.423705,0.0,False,2513

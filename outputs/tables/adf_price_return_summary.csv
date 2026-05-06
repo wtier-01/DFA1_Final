@@ -1,0 +1,5 @@
+series,adf_statistic,p_value,used_lags,n_observations,critical_1pct,critical_5pct,critical_10pct,stationary_at_5pct
+MSFT adjusted price,0.063663,0.963491,9,2503,-3.432965,-2.862695,-2.567385,False
+MSFT daily return,-17.308149,0.0,8,2504,-3.432964,-2.862695,-2.567385,True
+LMT adjusted price,-1.445655,0.560203,0,2512,-3.432956,-2.862691,-2.567383,False
+LMT daily return,-17.861275,0.0,7,2505,-3.432963,-2.862694,-2.567385,True

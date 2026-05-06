@@ -1,0 +1,3 @@
+ticker,mean_daily_return,median_daily_return,annualized_mean_return,daily_volatility,annualized_volatility,min_daily_return,max_daily_return,skewness,excess_kurtosis,observations
+MSFT,0.001062,0.001049,0.267551,0.016854,0.267546,-0.14739,0.142169,0.081252,7.621598,2513
+LMT,0.000539,0.000802,0.135942,0.014572,0.231318,-0.127616,0.107279,-0.537674,14.05669,2513
