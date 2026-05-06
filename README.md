@@ -22,4 +22,4 @@ These stocks were selected because they are U.S.-listed common stocks, are not o
 ## Project Folder
 
 ```text
-/Users/willtier/Desktop/FDA1_Python/FDA1_Final# DFA1_Final
+/Users/willtier/Desktop/FDA1_Python/FDA1_Final

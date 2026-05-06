@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data/cache
+data/raw/*.csv
+data/processed/*.csv
+data/cache/
+
+# Outputs
+outputs/figures/*.png
+outputs/tables/*.csv
+outputs/tables/*.xlsx
+
+# System files
+.DS_Store
